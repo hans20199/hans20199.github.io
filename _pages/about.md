@@ -28,7 +28,7 @@ I am currently a research associate at AI Lab, Samsung Research in Beijing, Chin
   * Thesis Topic: *Strong Point-wise Consistency of Nonparametric Regression Estimations*
   * Supervisor: [Prof. Harro Walk, Ph.D](https://www.isa.uni-stuttgart.de/institut/Emeriti/)
 
-* B.S. in Applied Mathematics, University of Stuttgart, Germany, 2010
+* B.S. in Applied Mathematics, University of Stuttgart, Germany, 2007
 
 
 
