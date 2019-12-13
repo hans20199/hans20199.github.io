@@ -70,19 +70,19 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : 
 
 
 # Site Author
 author:
-  name             : "Dr. Test Account"
+  name             : "Hanyuan Hang"
   avatar           : "profile.png"
-  bio              : "Research scientist at Test University, expert in all things test and account related"
-  location         : "Test, California"
+  bio              : "Research scientist at AI Lab, Samsung Research"
+  location         : "Beijing, China"
   employer         : 
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  googlescholar    : # "http://scholar.google.com/this-is-a-test"
   email            : 
   uri              : 
   bitbucket        :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "getorg-testacct"
+  github           : "hans20199"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/testaccount"
+  orcid            : # "http://orcid.org/testaccount"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+  twitter          : # "testaccount-this-is-fake"
   vine             :
   weibo            :
   xing             :
