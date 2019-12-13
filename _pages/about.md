@@ -20,9 +20,16 @@ I am currently a research associate at AI Lab, Samsung Research in Beijing, Chin
 
 ## Education
 
-* B.S. in Applied Mathematics, University of Stuttgart, Germany, 2010
+* Ph.D in Statistics, University of Stuttgart, Germany, 2015
+  * Thesis Topic: *Statistical Learning of Kernel-Based Methods for non-i.i.d. Observations*
+  * Supervisor: [Prof. Ingo Steinwart, Ph.D](http://www.isa.uni-stuttgart.de/Steinwart/index.t?lang=en)
+
 * M.S. in Statistics, University of Stuttgart, Germany, 2010
-* Ph.D in Machine Learning, University of Stuttgart, Germany, 2015
+  * Thesis Topic: *Strong Point-wise Consistency of Nonparametric Regression Estimations*
+  * Supervisor: [Prof. Harro Walk, Ph.D](https://www.isa.uni-stuttgart.de/institut/Emeriti/)
+
+* B.S. in Applied Mathematics, University of Stuttgart, Germany, 2010
+
 
 
 ## Work experience
