@@ -49,7 +49,7 @@ redirect_from:
   * Supervisor: Prof. Ingo Steinwart, Ph.D
   
 
-## Publications
+<!-- ## Publications
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -60,4 +60,4 @@ redirect_from:
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
