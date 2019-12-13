@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-1. H. Hang, I. Steinwart, Y. Feng, and J.A.K. Suykens, **Kernel density estimation for dynamical systems**, *Journal of Machine Learning Research*, 19(35):1-49, 2018. [article link](http://www.jmlr.org/papers/volume19/16-349/16-349.pdf)
+1. H. Hang, I. Steinwart, Y. Feng, and J.A.K. Suykens, **Kernel density estimation for dynamical systems**, *Journal of Machine Learning Research*, 19(35):1-49, 2018. \[[article link](http://www.jmlr.org/papers/volume19/16-349/16-349.pdf)\]
 
 2. H. Hang and I. Steinwart, **A Bernstein-type inequality for some mixing processes and dynamical systems with an application to learning**, *Annals of Statistics*, 45(2):708-743, 2017. [article link](https://projecteuclid.org/euclid.aos/1494921955)
 
