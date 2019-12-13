@@ -22,7 +22,7 @@ I am currently a research associate at AI Lab, Samsung Research in Beijing, Chin
 
 * Ph.D in Statistics, University of Stuttgart, Germany, 2015
   * Thesis Topic: *Statistical Learning of Kernel-Based Methods for non-i.i.d. Observations*
-  * Supervisor: $\color{black}{[Prof. Ingo Steinwart, Ph.D](http://www.isa.uni-stuttgart.de/Steinwart/index.t?lang=en)}
+  * Supervisor: Prof. [Ingo Steinwart](http://www.isa.uni-stuttgart.de/Steinwart/index.t?lang=en), Ph.D
 
 * M.S. in Statistics, University of Stuttgart, Germany, 2010
   * Thesis Topic: *Strong Point-wise Consistency of Nonparametric Regression Estimations*
