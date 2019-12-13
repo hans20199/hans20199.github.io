@@ -7,7 +7,7 @@ author_profile: true
 
 ## Accepted
 
-1. C. Zhang, X. Gao, M. Hsieh, H. Hang, and D. Tao, **Matrix infinitely divisible series: Tail inequalities and application in optimization**, *IEEE Transactions on Information Theory*, 2019. [article link](https://arxiv.org/abs/1809.00781)
+1. C. Zhang, X. Gao, M. Hsieh, H. Hang, and D. Tao, **Matrix infinitely divisible series: Tail inequalities and application in optimization**, *IEEE Transactions on Information Theory*, 2019. \[[article link](https://arxiv.org/abs/1809.00781)\]
 
 ## Published
 
@@ -21,7 +21,7 @@ author_profile: true
 
 5. H. Hang and I. Steinwart, **Fast Learning from alpha-mixing Observations**, *Journal of Multivariate Analysis*, 127:184-199, 2014. \[[article link](https://www.sciencedirect.com/science/article/pii/S0047259X14000426?via%3Dihub)\]
 
-6. Z. Tan, Y. Yang, J. Wan, H. Hang, and S.Z. Li, **Attention based pedestrian attribute analysis**, *IEEE Transactions on Image Processing*, 2019. [article link](https://ieeexplore.ieee.org/document/8755326)
+6. Z. Tan, Y. Yang, J. Wan, H. Hang, and S.Z. Li, **Attention based pedestrian attribute analysis**, *IEEE Transactions on Image Processing*, 2019. \[[article link](https://ieeexplore.ieee.org/document/8755326)\]
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
