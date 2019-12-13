@@ -10,25 +10,25 @@ redirect_from:
 {% include base_path %}
 
 ## Contact information
+
 * AI Lab, Samsung Research, Beijing, China
 * hans2019@samsung.com
 
-Research interests
-======
+## Research interests
+
 * Statistical machine learning
 * Learning theory
 * Random forest
 * Kernel-based learning methods
 * Deep neural networks
 
-Education
-======
+## Education
+
 * B.S. in Applied Mathematics, University of Stuttgart, Germany, 2010
 * M.S. in Statistics, University of Stuttgart, Germany, 2010
 * Ph.D in Machine Learning, University of Stuttgart, Germany, 2015
 
-Work experience
-======
+## Work experience
 
 * Research Associate
   * AI Lab, Samsung Research
@@ -48,23 +48,15 @@ Work experience
   * Stuttgart, Germany
   * Supervisor: Prof. Ingo Steinwart, Ph.D
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
