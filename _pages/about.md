@@ -38,12 +38,12 @@ I am currently a research associate at AI Lab, Samsung Research in Beijing, Chin
 * Post-doc Researcher
   * Department of Electrical Engineering, KU Leuven
   * Leuven, Belgium
-  * Promoter: Prof. Johan A.K. Suykens, Ph.D
+  * Promoter: [Prof. Johan A.K. Suykens, Ph.D](https://www.esat.kuleuven.be/sista/members/suykens.html)
 
 * Research Assistant
   * Institite for Stochastics and Application, University of Stuttgart
   * Stuttgart, Germany
-  * Supervisor: Prof. Ingo Steinwart, Ph.D
+  * Supervisor: [Prof. Ingo Steinwart, Ph.D](http://www.isa.uni-stuttgart.de/Steinwart/index.t?lang=en)
 
 
 
