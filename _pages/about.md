@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an research scientist at AI Lab, Samsung Research in Beijing, China. I work on machine learning and deep learning, among which machine learning mainly includes algorithms such as random forest and support vector machines.
+I am currently a research associate at AI Lab, Samsung Research in Beijing, China. I work on machine learning and deep learning, among which machine learning mainly includes algorithms such as random forest and support vector machines.
 
 ## Research interests
 
@@ -17,13 +17,6 @@ I am currently an research scientist at AI Lab, Samsung Research in Beijing, Chi
 * Random forest
 * Kernel-based learning methods
 * Deep neural networks
-
-
-## Contact information
-
-* AI Lab, Samsung Research, Beijing, China
-* hans2019@samsung.com
-
 
 ## Education
 
