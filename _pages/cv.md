@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Contact information
+Contact information
 * AI Lab, Samsung Research, Beijing, China
 * hans2019@samsung.com
 
