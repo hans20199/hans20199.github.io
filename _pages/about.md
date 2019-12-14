@@ -12,6 +12,7 @@ I am currently a staff engineer at AI Lab, Samsung Research China - Beijing.
 
 I work on machine learning theory and algorithms.
 
+
 ## Research interests
 
 * Statistical learning theory
@@ -20,6 +21,7 @@ I work on machine learning theory and algorithms.
 * Randomized algorithms
 * Network compression
 * Adversarial learning
+
 
 ## Education
 
@@ -34,22 +36,25 @@ I work on machine learning theory and algorithms.
 * B.S. in Applied Mathematics, University of Stuttgart, Germany, 2007
 
 
-
 ## Work Experience
 
 * Staff Engineer, 2019-
-  * AI Lab, Samsung Research
+  * AI Lab
+  * Samsung Research China - Beijing
   * Beijing, China
 
 * Assistant Professor, 2017-2019
-  * Institute of Statistics and Big Data, Renmin University of China
+  * Institute of Statistics and Big Data
+  * Renmin University of China
   * Beijing, China
 
 * Post-doc Researcher, 2015-2017
-  * Department of Electrical Engineering, KU Leuven
+  * Department of Electrical Engineering, 
+  * Katholieke Universiteit Leuven
   * Leuven, Belgium
 
 * Research Assistant, 2010-2015
-  * Institite of Stochastics and Application, University of Stuttgart
+  * Institite of Stochastics and Application, 
+  * Universität Stuttgart
   * Stuttgart, Germany
 
