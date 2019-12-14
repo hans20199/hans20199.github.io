@@ -49,12 +49,12 @@ I work on machine learning theory and algorithms.
   * Beijing, China
 
 * Post-doc Researcher, 2015-2017
-  * Department of Electrical Engineering, 
-  * Katholieke Universiteit Leuven
+  * Department of Electrical Engineering
+  * Catholic University of Leuven
   * Leuven, Belgium
 
 * Research Assistant, 2010-2015
-  * Institite of Stochastics and Application, 
-  * Universität Stuttgart
+  * Institite of Stochastics and Application
+  * University of Stuttgart
   * Stuttgart, Germany
 
