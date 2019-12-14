@@ -52,4 +52,3 @@ I work on machine learning theory and algorithms.
   * Institite of Stochastics and Application, University of Stuttgart
   * Stuttgart, Germany
 
-
