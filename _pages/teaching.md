@@ -9,4 +9,4 @@ author_profile: true
 - Deep Learning, Fall 2018
 - Statistical Learning, Spring 2018
 - Asymptotic Statistics, Fall 2017
-- Stochastic Processes for Data Science, Spring 2017
+- Stochastic Processes, Spring 2017
