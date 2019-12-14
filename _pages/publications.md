@@ -7,19 +7,19 @@ author_profile: true
 
 ## Preprints
 
-1. H. Hang, Z. Lin, X. Liu, and H. Wen. **Histogram Transform Ensembles for Large-scale Regression**, *Technical Report*, \[[article link](https://arxiv.org/abs/1905.03729)\]
+1. H. Hang, Z. Lin, X. Liu, and H. Wen. **Histogram Transform Ensembles for Large-scale Regression**, *Technical Report*, 2019. \[[article link](https://arxiv.org/abs/1912.04738)\]
 
-2. H. Hang. **Histogram Transform Ensembles for Density Estimation**, *Technical Report*, \[[article link](https://arxiv.org/abs/1911.11581)\]
+2. H. Hang. **Histogram Transform Ensembles for Density Estimation**, *Technical Report*, 2019. \[[article link](https://arxiv.org/abs/1911.11581)\]
 
-3. H. Hang, X. Liu, and I. Steinwart. **Best-scored Random Forest Classification**, *Technical Report*, \[[article link](http://arxiv.org/abs/1905.11028)\]
+3. H. Hang, X. Liu, and I. Steinwart. **Best-scored Random Forest Classification**, *Technical Report*, 2019. \[[article link](http://arxiv.org/abs/1905.11028)\]
 
-4. H. Hang, Y. Cai, H. Yang, and Z. Lin. **Adaptive density-based clustering with best-scored random forest**, *Technical Report*, \[[article link](https://arxiv.org/abs/1906.10094)\]
+4. H. Hang, Y. Cai, H. Yang, and Z. Lin. **Adaptive density-based clustering with best-scored random forest**, *Technical Report*, 2019. \[[article link](https://arxiv.org/abs/1906.10094)\]
 
 5. H. Hang, Y. Chen, and J.A.K. Suykens. **Two-stage Best-scored Random Forest for Large-scale Regression**, *Technical Report*, 2018. \[[article link](https://arxiv.org/abs/1905.03438)\]
 
-6. H. Hang and H. Wen. **Best-scored Random Forest Density Estimation**, *Technical Report*, \[[article link](https://arxiv.org/abs/1905.03729)\]
+6. H. Hang and H. Wen. **Best-scored Random Forest Density Estimation**, *Technical Report*, 2018. \[[article link](https://arxiv.org/abs/1905.03729)\]
 
-7. H. Hang and I. Steinwart. **Optimal learning with anisotropic Gaussian SVMs**, *Technical Report*, \[[article link](https://arxiv.org/abs/1810.02321)\]
+7. H. Hang and I. Steinwart. **Optimal learning with anisotropic Gaussian SVMs**, *Technical Report*, 2018. \[[article link](https://arxiv.org/abs/1810.02321)\]
 
 ## Published
 
