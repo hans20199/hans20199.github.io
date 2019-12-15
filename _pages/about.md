@@ -54,7 +54,7 @@ I work on machine learning theory and algorithms.
   * Leuven, Belgium
 
 * Research Assistant, 2010-2015
-  * Institite of Stochastics and Application
+  * Institute of Stochastics and Applications
   * University of Stuttgart
   * Stuttgart, Germany
 
