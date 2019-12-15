@@ -27,11 +27,11 @@ I work on machine learning theory and algorithms.
 
 * Ph.D in Machine Learning, University of Stuttgart, Germany, 2015
   * Thesis Topic: *Statistical Learning of Kernel-Based Methods for non-i.i.d. Observations*
-  * Supervisor: [Ingo Steinwart](http://www.isa.uni-stuttgart.de/Steinwart/index.t?lang=en)
+  * Supervisor: [Prof. Ingo Steinwart](http://www.isa.uni-stuttgart.de/Steinwart/index.t?lang=en)
 
 * M.S. in Statistics, University of Stuttgart, Germany, 2010
   * Thesis Topic: *Strong Point-wise Consistency of Nonparametric Regression Estimations*
-  * Advisor: [Harro Walk](https://www.isa.uni-stuttgart.de/institut/Emeriti/)
+  * Advisor: [Prof. Harro Walk](https://www.isa.uni-stuttgart.de/institut/Emeriti/)
 
 * B.S. in Applied Mathematics, University of Stuttgart, Germany, 2007
 
