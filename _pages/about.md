@@ -13,7 +13,7 @@ I am currently a staff engineer at AI Lab, Samsung Research China - Beijing.
 I work on machine learning theory and algorithms.
 
 
-## Research interests
+## Research Interests
 
 * Statistical learning theory
 * Kernel-based algorithms
