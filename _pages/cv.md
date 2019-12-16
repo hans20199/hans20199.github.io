@@ -16,37 +16,40 @@ author_profile: true
 
 ## Research interests
 
-* Statistical machine learning
-* Learning theory
-* Random forest
-* Kernel-based learning methods
-* Deep neural networks
+* Statistical learning theory
+* Kernel-based algorithms
+* Ensemble learning 
+* Randomized algorithms
+* Network compression
+* Adversarial learning
 
 ## Education
 
-* B.S. in Applied Mathematics, University of Stuttgart, Germany, 2010
+* B.S. in Applied Mathematics, University of Stuttgart, Germany, 2007
 * M.S. in Statistics, University of Stuttgart, Germany, 2010
 * Ph.D in Machine Learning, University of Stuttgart, Germany, 2015
 
 ## Work experience
 
-* Research Associate
-  * AI Lab, Samsung Research
+* Staff Engineer, 2019-
+  * AI Lab
+  * Samsung Research China - Beijing
   * Beijing, China
 
-* Assistant Professor
-  * Institute of Statistics and Big Data, Renmin University
+* Assistant Professor, 2017-2019
+  * Institute of Statistics and Big Data
+  * Renmin University of China
   * Beijing, China
 
-* Post-doc Researcher
-  * Department of Electrical Engineering, KU Leuven
+* Post-doc Researcher, 2015-2017
+  * Department of Electrical Engineering
+  * Catholic University of Leuven
   * Leuven, Belgium
-  * Promoter: Prof. Johan A.K. Suykens, Ph.D
 
-* Research Assistant
-  * Institite for Stochastics and Application, University of Stuttgart
+* Research Assistant, 2010-2015
+  * Institute of Stochastics and Applications
+  * University of Stuttgart
   * Stuttgart, Germany
-  * Supervisor: Prof. Ingo Steinwart, Ph.D
   
 
 <!-- ## Publications
