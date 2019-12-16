@@ -26,8 +26,7 @@ I work on machine learning theory and algorithms.
 ## Education
 
 * Ph.D in Machine Learning, University of Stuttgart, Germany, 2015
-  * Thesis Topic: *Statistical Learning of Kernel-Based Methods for non-i.i.d. Observations* 
-                  \[[article link](https://elib.uni-stuttgart.de/handle/11682/5194)\]
+  * Thesis Topic: \[*Statistical Learning of Kernel-Based Methods for non-i.i.d. Observations*(https://elib.uni-stuttgart.de/handle/11682/5194)\]
   * Supervisor: [Prof. Ingo Steinwart](http://www.isa.uni-stuttgart.de/Steinwart/index.t?lang=en)
 
 * M.S. in Statistics, University of Stuttgart, Germany, 2010
