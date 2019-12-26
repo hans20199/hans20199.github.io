@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hanyuan (Hans) Hang"
+title                    : "Hanyuan Hang"
 title_separator          : "-"
-name                     : &name "Hanyuan (Hans) Hang"
+name                     : &name "Hanyuan Hang"
 description              : &description "Staff Engineer at AI Lab, Samsung Research China - Beijing"
 url                      : https://hans20199.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
