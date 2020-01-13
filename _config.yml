@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hanyuan Hang"
 title_separator          : "-"
 name                     : &name "Hanyuan Hang"
-description              : &description "Staff Engineer at AI Lab, Samsung Research China - Beijing"
+description              : &description "Machine Learning Research Engineer at AI Lab, Samsung Research China - Beijing"
 url                      : https://hans20199.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hans20199.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Hanyuan (Hans) Hang"
   avatar           : "profile.png"
-  bio              : "Staff Engineer at AI Lab, Samsung Research China - Beijing"
+  bio              : "Machine Learning Research Engineer at AI Lab, Samsung Research China - Beijing"
   location         : "Beijing, China"
   employer         : 
   googlescholar    : # "http://scholar.google.com/this-is-a-test"
