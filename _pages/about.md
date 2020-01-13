@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a staff engineer at AI Lab, Samsung Research China - Beijing.
+I am currently a machine learning research engineer at AI Lab, Samsung Research China - Beijing.
 
 I work on machine learning theory and algorithms.
 
