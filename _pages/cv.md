@@ -31,7 +31,7 @@ author_profile: true
 
 ## Work experience
 
-* Staff Engineer, 2019-
+* Machine Learning Research Engineer, 2019-
   * AI Lab
   * Samsung Research China - Beijing
   * Beijing, China
