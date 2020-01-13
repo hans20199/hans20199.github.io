@@ -39,7 +39,7 @@ I work on machine learning theory and algorithms.
 
 ## Work Experience
 
-* Staff Engineer, 2019-
+* Machine Learning Research Engineer, 2019-
   * AI Lab
   * Samsung Research China - Beijing
   * Beijing, China
