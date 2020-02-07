@@ -15,9 +15,9 @@ author_profile: true
 
 4. H. Hang, Y. Cai, H. Yang, and Z. Lin. **Adaptive density-based clustering with best-scored random forest**, *technical report*, 2019. \[[article link](https://arxiv.org/abs/1906.10094)\]
 
-5. H. Hang, Y. Chen, and J.A.K. Suykens. **Two-stage Best-scored Random Forest for Large-scale Regression**, *technical report*, 2018. \[[article link](https://arxiv.org/abs/1905.03438)\]
+5. H. Hang, Y. Chen, and J.A.K. Suykens. **Two-stage Best-scored Random Forest for Large-scale Regression**, *technical report*, 2019. \[[article link](https://arxiv.org/abs/1905.03438)\]
 
-6. H. Hang and H. Wen. **Best-scored Random Forest Density Estimation**, *technical report*, 2018. \[[article link](https://arxiv.org/abs/1905.03729)\]
+6. H. Hang and H. Wen. **Best-scored Random Forest Density Estimation**, *technical report*, 2019. \[[article link](https://arxiv.org/abs/1905.03729)\]
 
 7. H. Hang and I. Steinwart. **Optimal learning with anisotropic Gaussian SVMs**, *technical report*, 2018. \[[article link](https://arxiv.org/abs/1810.02321)\]
 
