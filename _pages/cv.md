@@ -12,7 +12,7 @@ author_profile: true
 ## Contact information
 
 * AI Lab, Samsung Research, Beijing, China
-* hans2019@samsung.com
+* hanyuan.hang@samsung.com
 
 ## Research interests
 
