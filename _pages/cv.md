@@ -21,7 +21,7 @@ author_profile: true
 * Ensemble learning 
 * Randomized algorithms
 * Network compression
-* Adversarial learning
+* Generative Adversarial Networks
 
 ## Education
 
