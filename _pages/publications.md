@@ -21,6 +21,11 @@ author_profile: true
 
 1. H. Hang and I. Steinwart. **Optimal learning with anisotropic Gaussian SVMs**, *technical report*, 2018. \[[article link](https://arxiv.org/abs/1810.02321)\]
 
+## Accepted
+
+1. Y. Cai, H. Hang, H. Yang, and Z. Lin. **Boosted Histogram Transform for Regression**, *International Conference on Machine Learning*, 2020. 
+
+
 ## Published
 
 1. C. Zhang, X. Gao, M. Hsieh, H. Hang, and D. Tao. **Matrix infinitely divisible series: Tail inequalities and application in optimization**, *IEEE Transactions on Information Theory*, 2019. \[[article link](https://ieeexplore.ieee.org/document/8892679)\]
