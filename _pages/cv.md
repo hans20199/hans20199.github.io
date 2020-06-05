@@ -36,17 +36,17 @@ author_profile: true
   * Samsung Research China - Beijing
   * Beijing, China
 
-* Assistant Professor, 2017-2019
+* Assistant Professor, 2017 - 2019
   * Institute of Statistics and Big Data
   * Renmin University of China
   * Beijing, China
 
-* Post-doc Researcher, 2015-2017
+* Post-doc Researcher, 2015 - 2017
   * Department of Electrical Engineering
   * Catholic University of Leuven
   * Leuven, Belgium
 
-* Research Assistant, 2010-2015
+* Research Assistant, 2010 - 2015
   * Institute of Stochastics and Applications
   * University of Stuttgart
   * Stuttgart, Germany
