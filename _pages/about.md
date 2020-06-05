@@ -15,12 +15,12 @@ I work on machine learning theory and algorithms.
 
 ## Research Interests
 
-* Statistical learning theory
-* Kernel-based algorithms
-* Ensemble learning 
-* Randomized algorithms
-* Network compression
-* Generative Adversarial Learning
+* Statistical Learning Theory
+* Kernel-based Algorithms
+* Ensemble Learning 
+* Randomized Algorithms
+* Network Compression
+* Generative Adversarial Networks
 
 
 ## Education
