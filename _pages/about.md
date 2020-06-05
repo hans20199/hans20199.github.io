@@ -20,7 +20,7 @@ I work on machine learning theory and algorithms.
 * Ensemble learning 
 * Randomized algorithms
 * Network compression
-* Generative Adversarial learning
+* Generative Adversarial Learning
 
 
 ## Education
