@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a machine learning research engineer at AI Lab, Samsung Research China - Beijing.
 
-I work on machine learning theory and algorithms.
+I work on machine learning algorithms and theory.
 
 
 ## Research Interests
