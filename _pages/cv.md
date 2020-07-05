@@ -20,7 +20,7 @@ author_profile: true
 * Kernel-based algorithms
 * Ensemble learning 
 * Randomized algorithms
-* Network compression
+* Neural Architecture Search
 * Generative Adversarial Networks
 
 ## Education
