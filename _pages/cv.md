@@ -20,8 +20,8 @@ author_profile: true
 * Kernel-based algorithms
 * Ensemble learning 
 * Randomized algorithms
-* Neural Architecture Search
-* Generative Adversarial Networks
+* Neural architecture search
+* Generative adversarial networks
 
 ## Education
 
