@@ -18,9 +18,9 @@ I work on machine learning algorithms and theory.
 * Statistical learning theory
 * Kernel-based algorithms
 * Ensemble learning 
-* Randomized algorithms
-* Neural architecture search
+* Weakly-supervised learning
 * Generative adversarial networks
+* Neural architecture search
 
 
 ## Education
