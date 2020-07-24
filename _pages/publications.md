@@ -23,7 +23,7 @@ author_profile: true
 
 ## Accepted
 
-1. Y. Cai, H. Hang, H. Yang, and Z. Lin. **Boosted Histogram Transform for Regression**, *International Conference on Machine Learning*, 2020. \[[article link](https://proceedings.icml.cc/static/paper_files/icml/2020/2360-Paper.pdf)\]
+1. Y. Cai, H. Hang, H. Yang, and Z. Lin. **Boosted Histogram Transform for Regression**, in *Proceedings of International Conference on Machine Learning 2020*, pp. 4029-4039, 2020. \[[article link](https://proceedings.icml.cc/book/3614.pdf)\]
 
 ## Published
 
