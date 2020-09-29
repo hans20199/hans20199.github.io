@@ -29,7 +29,7 @@ author_profile: true
 
 1. C. Zhang, X. Gao, M. Hsieh, H. Hang, and D. Tao. **Matrix infinitely divisible series: Tail inequalities and application in optimization**, *IEEE Transactions on Information Theory*, 66(2):1099-1117, 2020. \[[article link](https://ieeexplore.ieee.org/document/8892679)\]
 
-1. Z. Tan, Y. Yang, J. Wan, H. Hang, and S.Z. Li. **Attention based pedestrian attribute analysis**, *IEEE Transactions on Image Processing*, 28(12):6126-6140, 2019. \[[article link](https://ieeexplore.ieee.org/document/8755326)\]
+1. Z. Tan, Y. Yang, J. Wan, H. Hang, G. Guo, and S.Z. Li. **Attention based pedestrian attribute analysis**, *IEEE Transactions on Image Processing*, 28(12):6126-6140, 2019. \[[article link](https://ieeexplore.ieee.org/document/8755326)\]
 
 1. H. Hang, I. Steinwart, Y. Feng, and J.A.K. Suykens. **Kernel density estimation for dynamical systems**, *Journal of Machine Learning Research*, 19(35):1-49, 2018. \[[article link](http://www.jmlr.org/papers/volume19/16-349/16-349.pdf)\]
 
