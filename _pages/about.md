@@ -19,7 +19,7 @@ I work on machine learning algorithms and theory.
 * Kernel-based algorithms
 * Ensemble learning 
 * Weakly-supervised learning
-* Generative adversarial networks
+* Generative models
 * Reinforcement learning
 
 
