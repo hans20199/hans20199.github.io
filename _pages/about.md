@@ -20,7 +20,7 @@ I work on machine learning algorithms and theory.
 * Ensemble learning 
 * Weakly-supervised learning
 * Generative adversarial networks
-* Reinforcement Learning
+* Reinforcement learning
 
 
 ## Education
